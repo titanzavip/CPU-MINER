@@ -79,11 +79,11 @@ cd cpuminer/cpuminer-multi
 ./cpuminer -a x11 -o stratum+tcp://x11.eobot.com:5555 -u eobot.[Your ID of EoBot] -p x -t [how many cpu you want to allocate]
 ```
 exit for quit 😂
-```
+
 
 ----------------------------------------------------------------------------------------
 
-```
+
 apt install wget
 ```
 ```
