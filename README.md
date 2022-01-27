@@ -85,6 +85,9 @@ exit for quit 😂
 apt install wget
 ```
 ```
+apt install git
+```
+```
 wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.5.4/SRBMiner-Multi-0-5-4-Linux.tar.xz
 ```
 ```
