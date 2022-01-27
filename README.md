@@ -2,36 +2,33 @@
 ```
 termux-setup-storage
 ```
+# OS-INSTALLER
 ```
-apt update
-```
-```
-apt upgrade
+termux-setup-storage
 ```
 ```
-apt install git
+apt update -y
 ```
 ```
-apt install wget
+apt upgrade -y
 ```
 ```
-apt install proot
+apt install git -y
 ```
 ```
-git clone https://github.com/Neo-Oli/termux-ubuntu.git
+git clone https://github.com/mantvmass/os-installer
 ```
 ```
-cd termux-ubuntu
+cd os-installer
 ```
 ```
-chmod +x ubuntu.sh
+sh build.sh
 ```
+Open Os
 ```
-./ubuntu.sh
+os-installer
 ```
-```
-./start-ubuntu.sh
-```
+# CPU-MINER
 ```
 apt update && apt upgrade
 ```
@@ -43,6 +40,27 @@ apt install proot
 ```
 ```
 apt install git
+```
+```
+apt-get install libcurl4-openssl-dev -y
+```
+```
+apt-get install libssl-dev -y
+```
+```
+apt-get install libjansson-dev -y
+```
+```
+apt-get install automake -y
+```
+```
+apt-get install autotools-dev -y  
+```
+```
+apt-get install build-essential -y
+```
+```
+apt-get install nano -y
 ```
 ```
 apt install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev
