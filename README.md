@@ -88,10 +88,16 @@ apt install wget
 wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.5.4/SRBMiner-Multi-0-5-4-Linux.tar.xz
 ```
 ```
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.8.9/SRBMiner-Multi-0-8-9-Linux.tar.xz
+```
+```
 git clone https://github.com/doktor83/SRBMiner-Multi.git
 ```
 ```
 tar -xvf SRBMiner-Multi-0-5-4-Linux.tar.xz
+```
+```
+tar -xvf SRBMiner-Multi-0-8-9-Linux.tar.xz
 ```
 ```
 cd SRBMiner-Multi-0-5-4
