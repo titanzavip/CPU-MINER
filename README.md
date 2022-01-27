@@ -80,7 +80,9 @@ cd cpuminer/cpuminer-multi
 ```
 exit for quit 😂
 ```
+
 ----------------------------------------------------------------------------------------
+
 ```
 apt install wget
 ```
@@ -105,4 +107,4 @@ verushash
 ```
 stratum+tcp://ap.luckpool.net:3956
 ```
-```
+
