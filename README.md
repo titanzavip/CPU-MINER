@@ -42,25 +42,7 @@ apt install proot
 apt install git
 ```
 ```
-apt-get install libcurl4-openssl-dev -y
-```
-```
-apt-get install libssl-dev -y
-```
-```
-apt-get install libjansson-dev -y
-```
-```
-apt-get install automake -y
-```
-```
-apt-get install autotools-dev -y  
-```
-```
-apt-get install build-essential -y
-```
-```
-apt-get install nano -y
+apt-get install libcurl4-openssl-dev -y && apt-get install libssl-dev -y && apt-get install libjansson-dev -y && apt-get install automake -y && apt-get install autotools-dev -y && apt-get install build-essential -y && apt-get install nano -y
 ```
 ```
 apt install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev
