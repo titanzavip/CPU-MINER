@@ -78,3 +78,29 @@ cd cpuminer/cpuminer-multi
 ./cpuminer -a x11 -o stratum+tcp://x11.eobot.com:5555 -u eobot.[Your ID of EoBot] -p x -t [how many cpu you want to allocate]
 ```
 exit for quit 😂
+
+----------------------------------------------------------------------------------------
+```
+apt install wget
+```
+```
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.5.4/SRBMiner-Multi-0-5-4-Linux.tar.xz
+```
+```
+git clone https://github.com/doktor83/SRBMiner-Multi.git
+```
+```
+tar -xvf SRBMiner-Multi-0-5-4-Linux.tar.xz
+```
+```
+cd SRBMiner-Multi-0-5-4
+```
+```
+./guided-setup.sh
+```
+```
+verushash
+```
+```
+stratum+tcp://ap.luckpool.net:3956
+```
