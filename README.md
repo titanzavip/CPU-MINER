@@ -66,6 +66,7 @@ Now you can try your pool (eobot account) some like this :
 ./cpuminer -a x11 -o stratum+tcp://x11.eobot.com:5555 -u eobot.991010 -p x -t 4 -- -a = algorithm -- -o = pool -- -u = user -- -p = password -- -t = thread / cpu
 Then, next time and every time you want mining, because you had finished the installation on your android, you can do just :
 ```
+```
 cd termux-ubuntu
 ```
 ```
