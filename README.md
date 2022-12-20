@@ -54,13 +54,13 @@ mkdir cpuminer
 cd cpuminer
 ```
 ```
-apt install automake autoconf pkg-config libcurl14-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++
+apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++
 ```
 ```
 git clone https://github.com/tpruvot/cpuminer-multi
 ```
 ```
-./build.sh finish.
+./build.sh
 ```
 ```
 Now you can try your pool (eobot account) some like this :
